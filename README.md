@@ -5,11 +5,11 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Tourly - Travel website</h2>
+  <h2 align="center">Tourly - Agência de viagens</h2>
 
   Tourly é um site de viagens totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Demonstração</strong></a>
+  <a href="https://ichumbo.github.io/Tourtly/"><strong>➥ Demonstração</strong></a>
 
 </div>
 
